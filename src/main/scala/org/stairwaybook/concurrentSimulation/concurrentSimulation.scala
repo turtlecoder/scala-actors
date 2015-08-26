@@ -121,11 +121,6 @@ class Circuit{
     private observers:List[Actor] = List()
   }
 
-  // msic. utility methods
-
-  // MADE SOME CHANGES TO THE NEW-FEATURE BRANCH
-
-  // I've made some changes
 
 }
 
