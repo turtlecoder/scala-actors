@@ -125,6 +125,8 @@ class Circuit{
 
   // MADE SOME CHANGES TO THE NEW-FEATURE BRANCH
 
+  // I've made some changes
+
 }
 
 
