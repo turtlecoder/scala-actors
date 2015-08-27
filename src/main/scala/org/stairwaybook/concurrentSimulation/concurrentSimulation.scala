@@ -17,6 +17,8 @@ class Clock  extends Actor {
   private var allSimulants:List[Actor] = List()
   private var busySimulants:Set[Actor] = Set()
 
+  start() // start up the clock
+
   def add(sim:Simulant) = {
     allSimulants = sim :: allSimulants
   }
